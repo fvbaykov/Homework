@@ -1,9 +1,9 @@
-way=input('Введите путь к файлу без дополнительных символов: ', )
-f=open(way, 'r', encoding = 'utf-8')
-text=f.read()
+way = input('Введите путь к файлу без дополнительных символов: ', )
+f = open(way, 'r', encoding = 'utf-8')
+text = f.read()
 f.close()
-min=len(text)
-max=0
+min = len(text)
+max = 0
 arr = text.split('\n')
 for el in arr:
     if len(el) > max:
