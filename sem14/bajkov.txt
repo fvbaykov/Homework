@@ -340,11 +340,11 @@
 <w>воду<ana lex="вода" gr="S,f,inan=acc,sg"/></w> 
 <w>вылил<ana lex="вылить" gr="V,pf,tran=praet,sg,indic,m"/></w> 
 <w>с<ana lex="с" gr="PR="/></w> 
-<w>валенок<ana lex="валенок" gr="S,m,inan=acc,sg"/><ana lex="валенок" gr="S,m,inan=gen,pl"/><ana lex="валенок" gr="S,m,inan=nom,sg"/></w>, 
-<w>пальтишко<ana lex="пальтишко" gr="S,n,inan=acc,sg"/><ana lex="пальтишко" gr="S,n,inan=nom,sg"/></w> 
+<w>валенок<ana lex="валенок" gr="S,m,inan=gen,pl"/></w>, 
+<w>пальтишко<ana lex="пальтишко" gr="S,n,inan=acc,sg"/></w> 
 <w>снял<ana lex="снять" gr="V,pf,tran=praet,sg,indic,m"/></w>, 
 <w>выжал<ana lex="выжать" gr="V,pf,tran=praet,sg,indic,m"/></w> 
-<w>его<ana lex="он" gr="SPRO,sg,3p,m=acc"/><ana lex="он" gr="SPRO,sg,3p,m=gen"/></w>, 
+<w>его<ana lex="он" gr="SPRO,sg,3p,m=acc"/></w>, 
 <w>что<ana lex="что" gr="CONJ="/></w> 
 <w>можно<ana lex="можно" gr="ADV,praed="/></w> 
 <w>было<ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf"/></w>, 
