@@ -35,9 +35,9 @@ def main():
     d2 = topic(direct)
     with open('./15.csv', 'w', encoding='utf-8') as f:
         for key in d1.keys():
-            f.write('\n{} {}'.format(key, d1[key]))
-        for key in d2.keys():
-            f.write('\n{} {}'.format(key, d2[key]))
+            f.write('\n{}'.format(key))
+            f.write(' {} '.format(d1[key]))        
+            f.write('{}'.format(d2[key]))
 
 main()
 
